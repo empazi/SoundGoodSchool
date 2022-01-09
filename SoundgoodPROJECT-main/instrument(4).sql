@@ -1,0 +1,10 @@
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 227, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 226, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 220, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 152, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 272, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 213, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 194, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 288, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 284, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Triangle', 'Basic', 163, 0);

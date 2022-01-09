@@ -1,0 +1,10 @@
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 284, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 212, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 151, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 245, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 165, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 253, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 150, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 293, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 228, 0);
+insert into instrument (type, brand, price, is_being_rented) values ('Glockenspiel', 'Basic', 236, 0);
