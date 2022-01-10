@@ -87,7 +87,7 @@ ALTER TABLE student_parent ADD CONSTRAINT PK_student_parent PRIMARY KEY (student
 
 CREATE TABLE time_slot (
  id INT GENERATED ALWAYS AS IDENTITY NOT NULL,
- time TIME(10) NOT NULL
+ time TIME NOT NULL
 );
 
 ALTER TABLE time_slot ADD CONSTRAINT PK_time_slot PRIMARY KEY (id);
